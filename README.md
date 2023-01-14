@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<h1 align="center">STADISTICS 📊</h1>
+<h1 align="center">STATISTICS 📊</h1>
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinRincon&theme=radical">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdwinRincon&show_icons=true&locale=en&layout=compact&theme=radical" />
